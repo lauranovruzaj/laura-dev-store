@@ -1,0 +1,4 @@
+[environments.laura]
+store = "laura-dev-store-2"
+theme = "149262336161"
+store-password = "password"
